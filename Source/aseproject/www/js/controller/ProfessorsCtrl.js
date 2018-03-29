@@ -1,5 +1,5 @@
 /**
- * Created by Venu on 10/19/15.
+ * Created by Lema on 10/19/15.
  */
 
 myapp.controller('ProfessorsCtrl', function($scope,$http,$state){
