@@ -1,5 +1,5 @@
 /**
- * Created by Venu on 10/20/15.
+ * Created by Lema on 10/20/15.
  */
 
 myapp.controller('AdminEditCtrl', function($scope, $http, $state,$rootScope){
