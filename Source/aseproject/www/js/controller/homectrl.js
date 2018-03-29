@@ -1,5 +1,5 @@
 /**
- * Created by Venu on 10/17/15.
+ * Created by Lema on 10/17/15.
  */
 
 myapp.controller('homectrl', function ($scope, $http, $state ) {
