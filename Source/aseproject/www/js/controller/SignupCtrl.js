@@ -1,5 +1,5 @@
 /**
- * Created by Venu on 10/11/15.
+ * Created by Lema on 10/11/15.
  */
 
 myapp.controller('SignupCtrl', function ($scope, $http, $state) {
